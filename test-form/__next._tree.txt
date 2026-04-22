@@ -1,2 +1,2 @@
-:HL["/pekan-it/_next/static/chunks/0v3xs~q_-8d.l.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"test-form","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LgsoUKID37JNvsptcb-YK"}
+:HL["/pekan-it/_next/static/chunks/0.lqmnzdorl.l.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"test-form","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Hgr9XPj-GeSCB3SLqgNhf"}
