@@ -1,4 +1,4 @@
-:HL["/pekan-it/_next/static/chunks/0.lqmnzdorl.l.css","style"]
+:HL["/pekan-it/_next/static/chunks/08z1hxe6by1uo.css","style"]
 :HL["/pekan-it/images/Vector.svg","image"]
 :HL["/pekan-it/images/img-himtika.png","image"]
 :HL["/pekan-it/images/ri_instagram-fill.svg","image"]
@@ -6,4 +6,4 @@
 :HL["/pekan-it/images/fluent_image-sparkle-20-filled.svg","image"]
 :HL["/pekan-it/images/Vector (1).svg","image"]
 :HL["/pekan-it/images/Vector (2).svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pendaftaran","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"8X61pkmQT9YLYxYaiFHKx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pendaftaran","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_1Vuo1Gqu2o7BpOMkcLqB"}

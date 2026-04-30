@@ -1,4 +1,4 @@
-:HL["/pekan-it/_next/static/chunks/0.lqmnzdorl.l.css","style"]
+:HL["/pekan-it/_next/static/chunks/08z1hxe6by1uo.css","style"]
 :HL["/pekan-it/images/segitiga.png","image"]
 :HL["/pekan-it/images/Kiri.png","image"]
 :HL["/pekan-it/images/Kanan.png","image"]
@@ -7,4 +7,4 @@
 :HL["/pekan-it/images/left.png","image"]
 :HL["/pekan-it/images/guidebook-cover.png","image"]
 :HL["/pekan-it/images/img-himtika.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"detail-semantik","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"8X61pkmQT9YLYxYaiFHKx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"detail-semantik","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"_1Vuo1Gqu2o7BpOMkcLqB"}
