@@ -1,2 +1,3 @@
-:HL["/pekan-it/_next/static/chunks/0s9o8mvgn5t_g.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terimakasih","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Be7TnV-ashBT2xowSL6MH"}
+:HL["/pekan-it/_next/static/chunks/03dfcr05thy4_.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Zen+Dots&family=Exo+2:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Orbitron:wght@400;500;600;700;800;900&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"terimakasih","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"6Ri9JIbqxQdiyJ96URf6h"}
