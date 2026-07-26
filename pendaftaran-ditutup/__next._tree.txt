@@ -1,4 +1,4 @@
-:HL["/pekan-it/_next/static/chunks/0_13pihj6~vt9.css","style"]
+:HL["/pekan-it/_next/static/chunks/153ptpeoa15l3.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Zen+Dots&family=Exo+2:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Orbitron:wght@400;500;600;700;800;900&display=swap","style"]
 :HL["/pekan-it/images/img-himtika.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pendaftaran-ditutup","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"s5x5EdX9jssum-uoVD_8p"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"pendaftaran-ditutup","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"KIyTZ89up4ujPxSbQB6kY"}
