@@ -2,4 +2,4 @@
 2:I[25652,["/pekan-it/_next/static/chunks/02_5n9nvhtz_e.js","/pekan-it/_next/static/chunks/10iln_of1~-v4.js"],"default"]
 3:I[23350,["/pekan-it/_next/static/chunks/02_5n9nvhtz_e.js","/pekan-it/_next/static/chunks/10iln_of1~-v4.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"WG35aY282f3qLZjMTYYFb"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"Itpqf1jf95pQp0IJZ9_pX"}
